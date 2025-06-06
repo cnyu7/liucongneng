@@ -1,4 +1,4 @@
-package com.cn.serializable.apache.commons;
+package com.cn.apache.commons;
 
 
 import org.apache.commons.collections4.Bag;

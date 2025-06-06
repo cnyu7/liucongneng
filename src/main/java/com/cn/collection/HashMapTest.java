@@ -1,4 +1,4 @@
-package com.cn.serializable.collection;
+package com.cn.collection;
 
 import java.util.HashMap;
 import java.util.Map;
