@@ -7,6 +7,9 @@ import com.google.gson.Gson;
 import java.io.IOException;
 import java.io.Serializable;
 
+/**
+ * 序列化框架
+ */
 public class BooleanMainTest {
 
     public static void main(String[] args) throws IOException {
